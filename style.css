@@ -320,9 +320,10 @@ nav img{
     width: 100%;
     background-color: rgba(128, 128, 128, 0);
     margin: 10px 0px;
+    overflow: hidden;
 }
 .comment .discription{
-    width: 230px;
+    width: 220px;
     text-wrap: wrap;
     color: black;
     font-size: 18px;

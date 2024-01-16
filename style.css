@@ -331,6 +331,10 @@ nav img{
     font-weight: 500;
     padding: 0px 10px;
 }
+.comment .discription span{
+    color: rgb(217, 152, 0);
+}
+
 .profile{
     height: 80px;
     width: 100%;
@@ -399,6 +403,7 @@ nav img{
 .discription span{
     color: rgb(217, 152, 0);
 }
+
 /*FAQ Section*/
 
 #faq{

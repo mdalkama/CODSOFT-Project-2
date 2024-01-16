@@ -317,20 +317,19 @@ nav img{
 
 .comment{
     height: 140px;
-    width: 100%;
+    width: 250px;
     background-color: rgba(128, 128, 128, 0);
     margin: 10px 0px;
     overflow: hidden;
 }
 .comment .discription{
-    width: 220px;
+    width: 250px;
+    height: 140px;
     text-wrap: wrap;
     color: black;
     font-size: 18px;
     font-weight: 500;
     padding: 0px 10px;
-    display: flex;
-    flex-wrap: wrap;
 }
 .profile{
     height: 80px;
